@@ -1,11 +1,8 @@
-// Recursive CPP program for level
-// order traversal of Binary Tree
+// level order traversal of Binary Tree
 #include <bits/stdc++.h>
 using namespace std;
 
-/* A binary tree node has data,
-pointer to left child
-and a pointer to right child */
+// A binary tree node
 class node {
 public:
 	int data;
